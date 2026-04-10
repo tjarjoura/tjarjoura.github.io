@@ -1,0 +1,13 @@
+title: Tyler Jarjoura
+theme: minima
+
+permalink: /blog/:title/
+
+header_pages:
+  - index.md
+
+minima:
+  skin: solarized
+  hide_site_feed_link: true
+
+plugins: []
